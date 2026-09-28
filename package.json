@@ -1,0 +1,12 @@
+{
+  "name": "minradar-mcp",
+  "version": "1.0.0",
+  "description": "minradar MCP server over stdio — App Store opportunity data for coding agents",
+  "license": "MIT",
+  "type": "module",
+  "bin": { "minradar-mcp": "index.js" },
+  "files": ["index.js", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "git+https://github.com/caozhi1984/minradar-mcp.git" },
+  "keywords": ["mcp", "model-context-protocol", "app-store", "indie-dev", "codex", "claude"]
+}
